@@ -1,0 +1,44 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+#zagolovok{
+	text-align: center;
+	background-color: #d9d9d9;
+	border: black solid 3px;
+	opacity: 0.8;
+	border-radius: 30px;
+}
+
+#kartinka{
+	margin-left: 35px;
+}
+
+#zagolovok2{
+	text-align: center;
+}
+
+#brawl_stars{
+	font-size: 20px;
+}
+
+#brawl_stars2{
+	font-size: 20px;
+}
+
+#brawl_stars3{
+	font-size: 20px;
+	text-align: center;
+}
+
+#brawl_stars4{
+	font-size: 20px;
+}
+
+.kartinki:hover{
+	 -webkit-transform: scale(1.2);
+     -ms-transform: scale(1.2);
+	 transform: scale(1.01);
+}
+
+
